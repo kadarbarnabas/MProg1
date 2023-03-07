@@ -1,4 +1,0 @@
-﻿  maxramusage.cpp
-C:\Users\Barnus\Desktop\c++ github\hazi\maxramusage\maxramusage.cpp(12,15): warning C4244: 'initializing': conversion from 'DWORDLONG' to 'float', possible loss of data
-C:\Users\Barnus\Desktop\c++ github\hazi\maxramusage\maxramusage.cpp(23,30): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
-  maxramusage.vcxproj -> C:\Users\Barnus\Desktop\c++ github\hazi\maxramusage\x64\Debug\maxramusage.exe
