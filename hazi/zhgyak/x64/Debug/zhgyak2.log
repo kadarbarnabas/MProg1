@@ -1,0 +1,3 @@
+﻿  zhgyak2.cpp
+C:\Users\Barnus\Desktop\c++ github\hazi\zhgyak2\zhgyak2.cpp(173,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  zhgyak2.vcxproj -> C:\Users\Barnus\Desktop\c++ github\hazi\zhgyak2\x64\Debug\zhgyak2.exe
